@@ -1,0 +1,1 @@
+“Debi” is a hotel room reservation company that was established in the year 2004 in Thailand. With the company's growth, management is seeking to expand its services globally. With the existing system, they have identified that it would be hard to meet up to the expected demand due to its lack of scalability. 

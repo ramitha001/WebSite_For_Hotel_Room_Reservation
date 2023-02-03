@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socClient", "soc\socClient.csproj", "{CE4F77A3-E5A4-4225-B806-5B0B6FDA7A17}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CEC437FF-4381-4332-A6D4-AA4C19F52B7E} = {CEC437FF-4381-4332-A6D4-AA4C19F52B7E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socProject", "socProject\socProject.csproj", "{CEC437FF-4381-4332-A6D4-AA4C19F52B7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4F77A3-E5A4-4225-B806-5B0B6FDA7A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4F77A3-E5A4-4225-B806-5B0B6FDA7A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4F77A3-E5A4-4225-B806-5B0B6FDA7A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4F77A3-E5A4-4225-B806-5B0B6FDA7A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC437FF-4381-4332-A6D4-AA4C19F52B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC437FF-4381-4332-A6D4-AA4C19F52B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC437FF-4381-4332-A6D4-AA4C19F52B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC437FF-4381-4332-A6D4-AA4C19F52B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
